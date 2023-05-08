@@ -13,6 +13,11 @@ If you're looking for a way to add a command prompt option to the Windows contex
 
 🖥️ This registry file has been tested on Windows 10.
 
+See the photo below:
+
+![image](https://user-images.githubusercontent.com/91145535/236896112-2708e734-a559-4fba-bb4d-2cce2483eede.png)
+
+
 ## Notes
 
 This registry file adds the necessary entries to the Windows registry to enable the "PowerShell Here" and "CMD Here" options in the context menu. The options are added to the "Directory\Background\shell" key, which means they will appear when you right-click on a folder or the desktop.
