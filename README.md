@@ -4,7 +4,7 @@ If you're looking for a way to add a command prompt option to the Windows contex
 
 ## Usage
 
-1. 📥 Download the `console_here.reg` file.
+1. 📥 Download the `Terminal_here.reg` file.
 2. 🖱️ Double-click the file to add the registry entries.
 3. 🔍 Confirm the registry editor prompt.
 4. 🖱️ Open a new Windows Explorer window and right-click on a folder or the desktop to see the new options.
